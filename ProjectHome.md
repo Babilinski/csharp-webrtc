@@ -1,0 +1,1 @@
+The objective of this project is to provide a C++/CLI wrapper to expose WebRTC functionality in the C# language.
